@@ -1,2 +1,2 @@
 # HEALTHWISE
-<p>feture number 1<p>
+<p>feture number 1 (assessing the symptoms)<p>
