@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fever,Cough,Fatigue,Headache,Nausea,Shortness of Breath,High Glucose,Frequent Urination,Disease
 1,1,1,1,0,0,0,0,Flu
 0,0,1,0,0,0,1,1,Diabetes
@@ -8,4 +9,16 @@ Fever,Cough,Fatigue,Headache,Nausea,Shortness of Breath,High Glucose,Frequent Ur
 0,0,1,1,1,0,0,0,Migraine
 1,1,1,0,1,1,0,0,COVID-19
 0,0,1,0,0,0,1,1,Diabetes
+=======
+Fever,Cough,Fatigue,Headache,Nausea,Shortness of Breath,High Glucose,Frequent Urination,Disease
+1,1,1,1,0,0,0,0,Flu
+0,0,1,0,0,0,1,1,Diabetes
+0,0,0,1,1,0,0,0,Migraine
+1,1,1,0,0,1,0,0,COVID-19
+0,1,0,0,0,1,0,0,Asthma
+1,1,0,0,0,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,Migraine
+1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,Diabetes
+>>>>>>> 1a0a8cc8fb36b307e53c0b9a4508420478a4b269
 1,1,1,0,0,0,0,0,Flu
