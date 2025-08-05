@@ -1,18 +1,17 @@
-# app.py
 import streamlit as st
 import pickle
 from components.prediction import predict_disease
 from components.recommendation import get_specialist, get_remedies, generate_report_pdf
 from components.maps import find_nearby_doctors
 
-# --- PAGE CONFIGURATION ---
+# PAGE CONFIGURATION
 st.set_page_config(page_title="HealthWise AI Pro", page_icon="🏥", layout="wide")
 
-# --- LOAD ASSETS ---
+# LOADING ASSETS
 with open("models/symptoms.pkl", "rb") as f:
     all_symptoms = pickle.load(f)
 
-# --- UI ---
+# UI
 st.title("🧠 HealthWise Pro: Analysis, Remedies & Doctor Locator")
 st.markdown("Your intelligent health companion for predictions, remedies, and finding local specialists.")
 
@@ -64,3 +63,5 @@ if st.button("🚀 Get Full Health Analysis", type="primary"):
 
 st.markdown("---")
 st.warning("**Disclaimer:** This is an AI-powered system and not a substitute for professional medical advice.")
+
+

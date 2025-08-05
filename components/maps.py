@@ -52,3 +52,4 @@ def find_nearby_doctors(location_query):
 
     map_df = pd.DataFrame(map_points)
     return places, map_df
+
