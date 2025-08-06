@@ -72,7 +72,9 @@ Follow these instructions to set up and run the project on your local machine.
 ---
 
 ## 📁 Project Structure
-'''
+
+<pre>
+<code>
 Healthwise/
 │
 ├── data/
@@ -83,7 +85,7 @@ Healthwise/
 │   └── symptoms.pkl        # Saved list of symptoms
 │
 ├── components/
-│   ├── init.py
+│   ├── __init__.py
 │   ├── maps.py             # Logic for OpenStreetMap API
 │   ├── prediction.py       # Logic for ML prediction
 │   └── recommendation.py   # Logic for specialist, remedies, PDF
@@ -92,7 +94,9 @@ Healthwise/
 ├── train_model.py          # Script to train the ML model
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
-'''
+</code>
+</pre>
+
 ---
 
 ## ⚠️ Disclaimer
