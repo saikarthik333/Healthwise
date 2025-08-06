@@ -72,7 +72,7 @@ Follow these instructions to set up and run the project on your local machine.
 ---
 
 ## 📁 Project Structure
-
+'''
 Healthwise/
 │
 ├── data/
@@ -92,7 +92,7 @@ Healthwise/
 ├── train_model.py          # Script to train the ML model
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
-
+'''
 ---
 
 ## ⚠️ Disclaimer
