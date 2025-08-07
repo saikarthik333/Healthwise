@@ -78,7 +78,7 @@ Follow these instructions to set up and run the project on your local machine.
 Healthwise/
 │
 ├── data/
-│   └── dataset.csv         # The training dataset
+│   └── dataset.csv         # Training dataset
 │
 ├── models/
 │   ├── model.pkl           # Saved trained ML model
