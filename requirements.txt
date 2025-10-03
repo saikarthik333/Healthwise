@@ -1,14 +1,5 @@
-<<<<<<< HEAD
 streamlit
 scikit-learn
 pandas
 geopy
 fpdf2
-
-=======
-streamlit
-scikit-learn
-pandas
-geopy
-fpdf2
->>>>>>> 1a0a8cc8fb36b307e53c0b9a4508420478a4b269
