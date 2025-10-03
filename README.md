@@ -1,4 +1,4 @@
-# 🧠 HealthWise Pro: AI Symptom Checker & Doctor Locator
+# 🧠 HealthWise : AI Symptom Checker & Doctor Locator
 
 An intelligent web application built with Streamlit that predicts medical conditions from symptoms, provides general remedies, finds nearby doctors using OpenStreetMap, and generates a downloadable health report.
 
@@ -78,7 +78,7 @@ Follow these instructions to set up and run the project on your local machine.
 Healthwise/
 │
 ├── data/
-│   └── dataset.csv         # The training dataset
+│   └── dataset.csv         # Training dataset
 │
 ├── models/
 │   ├── model.pkl           # Saved trained ML model
