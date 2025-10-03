@@ -12,7 +12,7 @@ with open("models/symptoms.pkl", "rb") as f:
     all_symptoms = pickle.load(f)
 
 # UI
-st.title("🧠Sai Karthik's HealthWise : AI Health Analysis, Remedies & Doctor Locator")
+st.title("🧠HealthWise : AI Health Analysis, Remedies & Doctor Locator")
 st.markdown("Your intelligent health companion for predictions, remedies, and finding local specialists.")
 
 col1, col2 = st.columns(2)
